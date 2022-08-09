@@ -21,6 +21,21 @@
 </div>
 
 
+### :woman_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I’m working as a Frontend Engineer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tanyalagodich)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
 <!--
 **TanyaLagodich/TanyaLagodich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

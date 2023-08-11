@@ -2,15 +2,15 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/">
+  <a href="https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!-- <a href="https://twitter.com/illbeabug">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-<!--  <a href="https://instagram.com/tanyalagodich">
+  <a href="(https://t.me/everyfamilyhasafrontend)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+ <a href="https://instagram.com/tanyalagodich" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a> -->
+  </a>
   
   <h1>
     Hey there

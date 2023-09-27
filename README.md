@@ -7,7 +7,7 @@
  
   [![Linkedin Badge](https://img.shields.io/badge/-tanyalagodich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)](https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)
   [![Instagram Badge](https://img.shields.io/badge/-tanyalagodich-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tanyalagodich/)](https://instagram.com/tanyalagodich)
-  [![Telegram Badge](https://img.shields.io/badge/-frontend_channel-darkred?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/everyfamilyhasafrontend)]([https://www.youtube.com/c/koolkanna](https://t.me/everyfamilyhasafrontend))
+  [![Telegram Badge](https://img.shields.io/badge/-frontend_channel-darkred?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/everyfamilyhasafrontend)](https://t.me/everyfamilyhasafrontend)
   [![Gmail Badge](https://img.shields.io/badge/-tanyalagodichka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanyalagodichka@gmail.com)](mailto:tanyalagodichks@gmail.com)
 
 </div>

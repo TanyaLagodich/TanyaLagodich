@@ -2,8 +2,8 @@
   
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="280" height="280" />
   
-  ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  ## I'm Tanya and I'm incredibly passionate about web-development
+  <h2>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <h2>I'm Tanya and I'm incredibly passionate about web-development</h2>
   
  
   [![Linkedin Badge](https://img.shields.io/badge/-tanyalagodich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)](https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)

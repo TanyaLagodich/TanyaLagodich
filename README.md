@@ -2,25 +2,23 @@
   
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="280" height="280" />
   
-  <h2>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-  <h2>I'm Tanya and I'm incredibly passionate about web-development</h2>
-  
- 
+  # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  # I'm Tanya and I'm incredibly passionate about web-development
+
   [![Linkedin Badge](https://img.shields.io/badge/-tanyalagodich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)](https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)
   [![Instagram Badge](https://img.shields.io/badge/-tanyalagodich-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tanyalagodich/)](https://instagram.com/tanyalagodich)
   [![Telegram Badge](https://img.shields.io/badge/-frontend_channel-darkred?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/everyfamilyhasafrontend)](https://t.me/everyfamilyhasafrontend)
-  [![Gmail Badge](https://img.shields.io/badge/-tanyalagodichka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanyalagodichka@gmail.com)](mailto:tanyalagodichks@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-tanyalagodichka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanyalagodichka@gmail.com)](mailto:tanyalagodichka@gmail.com)
 
 </div>
-
 
 ### :woman_technologist: I'm working as a frontend developer over 5 years. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 I really love what I do
 
 - I'm constantly learning something new. E.g. now I'm learning Python!
-- I have a telegram channel about frontend development (on Russian language)
-- I also have an Instagram account with over 2500 followers, where I share insights about frontend development and programming in general. (also on Russian)
-- Love creating my own pet-projects and contributing in open source
+- I have a telegram channel about frontend development (in Russian language)
+- I also have an Instagram account with over 2500 followers, where I share insights about frontend development and programming in general. (also in Russian)
+- Love creating my own pet-projects and contributing to open source
 
 ---
 
@@ -39,9 +37,6 @@ I really love what I do
   ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  
-
-
 
 ---
 

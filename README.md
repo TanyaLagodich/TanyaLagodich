@@ -3,30 +3,36 @@
   # Hi there! 👋 I'm Tanya
   ## 👩‍💻 About Me
 
-  I am a frontend developer with almost 6 years of experience, specializing in creating user-friendly and high-performance web applications. Currently, I am working in a fintech company developing an online broker platform.
+I am a frontend developer with 6 years of experience, specializing in creating user-friendly and high-performance web applications. Currently, I work at a fintech company developing an online broker platform.
 
-  🔍 **My main stack:** JavaScript and Vue.js (both versions 2 and 3).
+  🔍 **My main stack:** JavaScript, TypeScript and Vue.js (both versions 2 and 3).
   
-  🌱 I am also interested in backend development with **Node.js** and constantly expanding my knowledge.
+  🌱 I am also interested in backend development with **Node.js** and have implemented automation tools to streamline workflows while continuously expanding my knowledge.
 
-  🎓 Currently taking a **Computer Science** course focused on frontend development.
-
-  💡 Working on several personal projects:
+  💡 **Current Personal Projects:**
     
   1. **Itera8or Library** - A utility for iterating over collections in JavaScript.
-  2. **Telegram bot using Node.js** - A project to help rehome stray cats in Georgia.
-  3. **GitLab and Slack Integration App** - An intergration between GitLab and Slack for streamlining our code review proccess at work. Currently in our company’s GitLab; considering whether I can share it publicly on GitHub.
+  2. **Fitness platform** - A project for coaches to create and manage exercises (in progress).
+  3. **GitLab and Slack Integration App** - An integration between GitLab and Slack for streamlining our code review process at work. (Currently in our company’s GitLab; exploring whether to share it publicly on GitHub.)
+
+ 🌟 Recent Achievements:
+   * Completed a **Computer Science in Frontend** course.
 
   ##  🛠️ My Skills
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
-  ![GitHub](https://img.shields.io/badge/-Vuetify-333?style=flat&logo=vuetify)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-333?style=flat&logo=vuetify)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
+  ![Storybook](https://img.shields.io/badge/-Storybook-333?style=flat&logo=storybook)
+  ![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest)
+  ![Vitest](https://img.shields.io/badge/-Vitest-333?style=flat&logo=vitest)
   ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
   ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-  ![GitHub](https://img.shields.io/badge/-GitLab-333?style=flat&logo=gitlab)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333?style=flat&logo=gitlab)
 
   ##  🌍 How to Reach Me
   - [![Linkedin Badge](https://img.shields.io/badge/-tanyalagodich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)](https://www.linkedin.com/in/tatiana-lagodich-4a74291a4/)
